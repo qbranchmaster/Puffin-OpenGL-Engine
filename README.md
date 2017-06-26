@@ -4,6 +4,7 @@
 **Demo video #1 (01.2017):**
 [![Demo video #1](https://github.com/qbranchmaster/Puffin-OpenGL-Engine/blob/master/Images/Vid1.PNG)](https://www.youtube.com/watch?v=N7XHTeMLX68)
 **Demo video #2 (06.2017):**
+[![Demo video #2](https://github.com/qbranchmaster/Puffin-OpenGL-Engine/blob/master/Images/Vid2.PNG)](https://www.youtube.com/watch?v=r4Udt-cpEKw)
 
 ## Features
   - Fog
